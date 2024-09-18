@@ -1,0 +1,39 @@
+"Code","Bezeichnung","Kommentar"
+100,Arbeitsplatz,prim�r
+500,Einkauf,prim�r
+502,sonstige Waren,Kl�rung: sonst. W. -> n.t�gl. aber regelm.
+504,Dienstleistungen,"Friseur, Schuster �"
+505,sonstiger Einkaufszweck,Kl�rung: sonst. Ekz. -> sehr seltene Besorg.
+601,Arztbesuch,""
+604,sonstiger Erledigungszweck,""
+605,Betreuung Familienmitglieder,""
+701,Besuch/ Treffen,"Freunden, Verwandten, Bekannten"
+702,Besuch kulturelle Einrichtungen,"Kino, Theater, Museum"
+703,Besuch einer Veranstaltung,"Fu�ballspiel, Markt, Konzert�"
+704,"Sport, Sportverein","Tennis, Fu�ball, Training, Wettkampf"
+705,Weiterbildung,"Sprachkurs, Vhs"
+707,"Schrebergarten, Wochenendhaus",""
+710,"Spaziergang, -fahrt",""
+712,"Joggen, Inlineskating",""
+713,"Kirche, Friedhof",""
+715,Jobben in der Freizeit gegen Entgelt,"Zeitungen austragen, �"
+716,Begleitung von Kindern,""
+718,Hobby,Musizieren
+720,sonstiger Freizeitzweck,""
+501,täglicher Bedarf,""
+602,"Behörde, Bank, Post, Geldautomat",""
+603,private Erledigung für andere Personen,""
+706,"Restaurant, Gaststätte, Mitagessen",""
+711,Hund ausführen,""
+714,"Ehrenamt, Verein, politische Aktivitäten",""
+719,"Spielplatz, Spielen auf der Straße",""
+1,Besuch/ Besichtigung/ Besprechung,""
+2,Kundendienst/ Erlediung,""
+3,Sozialdienst/ Betreuung,""
+4,Transport/ Abholung/ Zustellung von Waren,""
+503,allgemeiner Einkaufsbummel,""
+708,"Tagesausflug, Kurzreise",bis zu 3 Übernachtungen
+709,Urlaub,ab 4 Übernachtungen
+1200,Kita,primär
+300,Ausbildung,primär
+5,Personenbeförderung,""
