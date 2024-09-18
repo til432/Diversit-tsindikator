@@ -1,0 +1,790 @@
+"ID","strasse","hn","key","value","MiD"
+A10,Lychener Straße,"10",shop,hairdresser,504
+A10,Lychener Straße,"10",shop,beauty,504
+A10,Lychener Straße,"10",shop,hairdresser,504
+A10,Lychener Straße,"10",shop,beauty,504
+A11,Lychener Straße,"11",shop,shoes,502
+A11,Lychener Straße,"11",amenity,bar,706
+A11,Lychener Straße,"11",shop,antiques,502
+A12,Lychener Straße,"12",amenity,training,705
+A12,Lychener Straße,"12",amenity,training,705
+A13,Lychener Straße,"13",healthcare,alternative,601
+A13,Lychener Straße,"13",amenity,restaurant,706
+A13,Lychener Straße,"13",amenity,restaurant,706
+A14,Lychener Straße,"14",shop,hairdresser,504
+A14,Lychener Straße,"14",shop,hairdresser,504
+A15,Lychener Straße,"15",amenity,bar,706
+A16,Lychener Straße,"16",shop,clothes,502
+A18,Lychener Straße,"18",shop,hairdresser,504
+A18,Lychener Straße,"18",amenity,restaurant,706
+A18,Lychener Straße,"18",shop,hairdresser,504
+A2,Lychener Straße,"2",office,estate_agent,504
+A2,Lychener Straße,"2",office,estate_agent,504
+A2,Lychener Straße,"2",amenity,restaurant,706
+A20,Lychener Straße,"20",office,insurance,504
+A20,Lychener Straße,"20",office,insurance,504
+A20,Lychener Straße,"20",shop,beauty,504
+A20,Lychener Straße,"20",shop,beauty,504
+A21,Lychener Straße,"21",amenity,kindergarten,1200
+A22,Lychener Straße,"22",healthcare:speciality,cardiology,601
+A23,Lychener Straße,"23",shop,hairdresser,504
+A23,Lychener Straße,"23",tourism,gallery,702
+A23,Lychener Straße,"23",shop,hairdresser,504
+A24,Lychener Straße,"24",amenity,restaurant,706
+A24,Lychener Straße,"24",amenity,restaurant,706
+A26,Lychener Straße,"26",amenity,restaurant,706
+A28,Lychener Straße,"28",amenity,restaurant,706
+A28,Lychener Straße,"28",shop,jewelry,502
+A3,Lychener Straße,"3",amenity,bar,706
+A30,Lychener Straße,"30",amenity,restaurant,706
+A33,Lychener Straße,"33",shop,kiosk,501
+A33,Lychener Straße,"33",amenity,atm,602
+A33,Lychener Straße,"33",healthcare,psychotherapist,601
+A35,Lychener Straße,"35",amenity,restaurant,706
+A37,Lychener Straße,"37",amenity,restaurant,706
+A39,Lychener Straße,"39",shop,bicycle,502
+A39,Lychener Straße,"39",amenity,bar,706
+A4,Lychener Straße,"4",amenity,cafe,706
+A41,Lychener Straße,"41",amenity,restaurant,706
+A41,Lychener Straße,"41",amenity,restaurant,706
+A43,Lychener Straße,"43",shop,hairdresser,504
+A43,Lychener Straße,"43",shop,hairdresser,504
+A45,Lychener Straße,"45",shop,furniture,502
+A45,Lychener Straße,"45",healthcare,psychotherapist,601
+A46,Lychener Straße,"46",amenity,restaurant,706
+A46,Lychener Straße,"46",shop,beauty,504
+A46,Lychener Straße,"46",shop,beauty,504
+A47,Lychener Straße,"47",sport,yoga,704
+A47,Lychener Straße,"47",sport,swimming,704
+A47,Lychener Straße,"47",sport,swimming,704
+A47,Lychener Straße,"47",shop,supermarket,501
+A47,Lychener Straße,"47",sport,yoga,704
+A5,Lychener Straße,"5",shop,musical_instrument,502
+A51,Lychener Straße,"51",shop,pottery,502
+A51,Lychener Straße,"51",healthcare,psychotherapist,601
+A51,Lychener Straße,"51",tourism,gallery,702
+A52,Lychener Straße,"52",shop,clothes,502
+A52,Lychener Straße,"52",amenity,language_school,705
+A52,Lychener Straße,"52",shop,beauty,504
+A52,Lychener Straße,"52",shop,beauty,504
+A52,Lychener Straße,"52",amenity,language_school,705
+A53,Lychener Straße,"53",shop,kiosk,501
+A53,Lychener Straße,"53",shop,massage,504
+A53,Lychener Straße,"53",shop,massage,504
+A53,Lychener Straße,"53",amenity,atm,602
+A56,Lychener Straße,"56",healthcare,general,601
+A59,Lychener Straße,"59",amenity,kindergarten,1200
+A59,Lychener Straße,"59",office,lawyer,504
+A59,Lychener Straße,"59",office,lawyer,504
+A6,Lychener Straße,"6",shop,kiosk,501
+A6,Lychener Straße,"6",amenity,restaurant,706
+A6,Lychener Straße,"6",amenity,restaurant,706
+A60,Lychener Straße,"60",amenity,parcel_locker,602
+A63,Lychener Straße,"63",amenity,cafe,706
+A64,Lychener Straße,"64",amenity,cafe,706
+A64,Lychener Straße,"64",amenity,parcel_locker,602
+A65,Lychener Straße,"65",amenity,kindergarten,1200
+A66,Lychener Straße,"66",amenity,kindergarten,1200
+A68,Lychener Straße,"68",amenity,animal_boarding,504
+A68,Lychener Straße,"68",amenity,animal_boarding,504
+A7,Lychener Straße,"7",healthcare,physiotherapist,601
+A7,Lychener Straße,"7",office,insurance,504
+A7,Lychener Straße,"7",office,insurance,504
+A8,Lychener Straße,"8",shop,clothes,502
+A9,Lychener Straße,"9",amenity,restaurant,706
+B1,Schliemannstraße,"1",amenity,restaurant,706
+B10,Schliemannstraße,"10",healthcare,general,601
+B13,Schliemannstraße,"13",healthcare,psychotherapist,601
+B13,Schliemannstraße,"13",healthcare:speciality,internal,601
+B14,Schliemannstraße,"14",shop,deli,502
+B14a,Schliemannstraße,"14a",shop,clothes,502
+B15,Schliemannstraße,"15",amenity,restaurant,706
+B16,Schliemannstraße,"16",amenity,restaurant,706
+B16,Schliemannstraße,"16",tourism,gallery,702
+B17,Schliemannstraße,"17",healthcare,psychotherapist,601
+B17,Schliemannstraße,"17",amenity,training,705
+B17,Schliemannstraße,"17",healthcare,psychotherapist,601
+B17,Schliemannstraße,"17",amenity,training,705
+B17,Schliemannstraße,"17",healthcare,psychotherapist,601
+B19,Schliemannstraße,"19",amenity,restaurant,706
+B2,Schliemannstraße,"2",amenity,pub,706
+B20,Schliemannstraße,"20",shop,antiques,502
+B21,Schliemannstraße,"21",shop,pottery,502
+B22,Schliemannstraße,"22",sport,yoga,704
+B22,Schliemannstraße,"22",sport,yoga,704
+B23,Schliemannstraße,"23",office,lawyer,504
+B23,Schliemannstraße,"23",office,lawyer,504
+B23,Schliemannstraße,"23",office,lawyer,504
+B23,Schliemannstraße,"23",office,lawyer,504
+B23a,Schliemannstraße,"23a",shop,beauty,504
+B23a,Schliemannstraße,"23a",amenity,dancing_school,704
+B23a,Schliemannstraße,"23a",shop,beauty,504
+B23a,Schliemannstraße,"23a",amenity,dancing_school,704
+B25a,Schliemannstraße,"25a",shop,gift,502
+B25a,Schliemannstraße,"25a",sport,yoga,704
+B25a,Schliemannstraße,"25a",shop,gift,502
+B25a,Schliemannstraße,"25a",sport,yoga,704
+B26,Schliemannstraße,"26",shop,gift,502
+B26,Schliemannstraße,"26",shop,gift,502
+B28,Schliemannstraße,"28",amenity,training,705
+B28,Schliemannstraße,"28",amenity,training,705
+B29,Schliemannstraße,"29",shop,photo,504
+B29,Schliemannstraße,"29",shop,photo,504
+B30,Schliemannstraße,"30",shop,gift,502
+B31,Schliemannstraße,"31",amenity,restaurant,706
+B32,Schliemannstraße,"32",healthcare,physiotherapist,601
+B33,Schliemannstraße,"33",shop,clothes,502
+B33,Schliemannstraße,"33",healthcare,alternative,601
+B33,Schliemannstraße,"33",healthcare,psychotherapist,601
+B33,Schliemannstraße,"33",shop,jewelry,502
+B33,Schliemannstraße,"33",healthcare,alternative,601
+B34,Schliemannstraße,"34",sport,pilates,704
+B34,Schliemannstraße,"34",sport,pilates,704
+B34,Schliemannstraße,"34",healthcare,alternative,601
+B34,Schliemannstraße,"34",healthcare:speciality,occupational,601
+B35,Schliemannstraße,"35",shop,deli,502
+B37,Schliemannstraße,"37",healthcare:speciality,occupational,601
+B40,Schliemannstraße,"40",shop,jewelry,502
+B41,Schliemannstraße,"41",healthcare,alternative,601
+B41,Schliemannstraße,"41",healthcare,alternative,601
+B41,Schliemannstraße,"41",healthcare,alternative,601
+B41,Schliemannstraße,"41",healthcare,alternative,601
+B41,Schliemannstraße,"41",healthcare,alternative,601
+B41,Schliemannstraße,"41",sport,yoga,704
+B41,Schliemannstraße,"41",healthcare,psychotherapist,601
+B41,Schliemannstraße,"41",sport,yoga,704
+B43,Schliemannstraße,"43",shop,beauty,504
+B43,Schliemannstraße,"43",leisure,park,720
+B43,Schliemannstraße,"43",leisure,playground,720
+B43,Schliemannstraße,"43",shop,beauty,504
+B45,Schliemannstraße,"45",office,tax_advisor,504
+B45,Schliemannstraße,"45",healthcare,psychotherapist,601
+B45,Schliemannstraße,"45",healthcare,psychotherapist,601
+B45,Schliemannstraße,"45",healthcare,speech_therapist,601
+B45,Schliemannstraße,"45",office,tax_advisor,504
+B47,Schliemannstraße,"47",amenity,ice_cream,706
+B47,Schliemannstraße,"47",healthcare,psychotherapist,601
+B48,Schliemannstraße,"48",shop,supermarket,501
+B49,Schliemannstraße,"49",amenity,kindergarten,1200
+B49,Schliemannstraße,"49",office,lawyer,504
+B49,Schliemannstraße,"49",office,lawyer,504
+B5,Schliemannstraße,"5",shop,bicycle,502
+B5,Schliemannstraße,"5",tourism,gallery,702
+B5,Schliemannstraße,"5",amenity,cinema,702
+B5,Schliemannstraße,"5",shop,jewelry,502
+B5,Schliemannstraße,"5",shop,motorcycle,
+C10,Dunckerstraße,"10",amenity,bar,706
+C10,Dunckerstraße,"10",healthcare,counselling,601
+C11,Dunckerstraße,"11",amenity,dentist,601
+C11,Dunckerstraße,"11",shop,clothes,502
+C11,Dunckerstraße,"11",shop,boutique,502
+C12,Dunckerstraße,"12",amenity,cafe,706
+C14,Dunckerstraße,"14",amenity,social_facility,714
+C14,Dunckerstraße,"14",amenity,social_facility,714
+C14,Dunckerstraße,"14",shop,charity,502
+C15,Dunckerstraße,"15",shop,furniture,502
+C16,Dunckerstraße,"16",shop,pet,502
+C16,Dunckerstraße,"16",amenity,social_facility,714
+C16,Dunckerstraße,"16",amenity,social_facility,714
+C17,Dunckerstraße,"17",healthcare:speciality,general,601
+C18,Dunckerstraße,"18",amenity,restaurant,706
+C19,Dunckerstraße,"19",office,tax_advisor,504
+C19,Dunckerstraße,"19",shop,ice_cream,706
+C19,Dunckerstraße,"19",office,tax_advisor,504
+C1a,Dunckerstraße,"1a",office,insurance,504
+C1a,Dunckerstraße,"1a",office,insurance,504
+C1a,Dunckerstraße,"1a",shop,clothes,502
+C2,Dunckerstraße,"2",amenity,cafe,706
+C21,Dunckerstraße,"21",sport,fitness,704
+C21,Dunckerstraße,"21",amenity,kindergarten,1200
+C21,Dunckerstraße,"21",sport,fitness,704
+C22,Dunckerstraße,"22",shop,clothes,502
+C2a,Dunckerstraße,"2a",amenity,restaurant,706
+C2a,Dunckerstraße,"2a",shop,wine,502
+C5,Dunckerstraße,"5",sport,table_tennis,704
+C5,Dunckerstraße,"5",sport,table_tennis,704
+C5,Dunckerstraße,"5",shop,furniture,502
+C5,Dunckerstraße,"5",leisure,playground,720
+C7,Dunckerstraße,"7",healthcare,psychotherapist,601
+C72,Dunckerstraße,"72",shop,gift,502
+C72,Dunckerstraße,"72",amenity,cafe,706
+C73,Dunckerstraße,"73",shop,clothes,502
+C73,Dunckerstraße,"73",amenity,cafe,706
+C76,Dunckerstraße,"76",amenity,social_facility,714
+C76,Dunckerstraße,"76",amenity,social_facility,714
+C77,Dunckerstraße,"77",tourism,museum,702
+C78,Dunckerstraße,"78",shop,shoes,502
+C79,Dunckerstraße,"79",shop,fabric,502
+C80,Dunckerstraße,"80",shop,deli,502
+C80a,Dunckerstraße,"80a",amenity,restaurant,706
+C80a,Dunckerstraße,"80a",shop,shoe_repair,504
+C80a,Dunckerstraße,"80a",shop,shoe_repair,504
+C81,Dunckerstraße,"81",shop,miscellaneous,502
+C84,Dunckerstraße,"84",sport,pilates,704
+C84,Dunckerstraße,"84",sport,pilates,704
+C86,Dunckerstraße,"86",shop,furniture,502
+C86,Dunckerstraße,"86",shop,pet_grooming,502
+C88,Dunckerstraße,"88",healthcare,psychotherapist,601
+C9,Dunckerstraße,"9",amenity,cafe,706
+C9,Dunckerstraße,"9",amenity,bar,706
+C90,Dunckerstraße,"90",office,lawyer,504
+C90,Dunckerstraße,"90",shop,hairdresser,504
+C90,Dunckerstraße,"90",office,tax_advisor,504
+C90,Dunckerstraße,"90",office,tax_advisor,504
+C90,Dunckerstraße,"90",shop,hairdresser,504
+C90,Dunckerstraße,"90",shop,gift,502
+C90,Dunckerstraße,"90",office,lawyer,504
+C90,Dunckerstraße,"90",shop,massage,504
+C90,Dunckerstraße,"90",shop,jewelry,502
+C90,Dunckerstraße,"90",shop,massage,504
+C90a,Dunckerstraße,"90a",amenity,kindergarten,1200
+C91,Dunckerstraße,"91",amenity,atm,602
+D1,Senefelderstraße,"1",shop,jewelry,502
+D1,Senefelderstraße,"1",shop,florist,502
+D10,Senefelderstraße,"10",amenity,restaurant,706
+D10,Senefelderstraße,"10",healthcare,psychotherapist,601
+D10,Senefelderstraße,"10",healthcare:speciality,osteopathy,601
+D13,Senefelderstraße,"13",amenity,social_facility,714
+D13,Senefelderstraße,"13",amenity,social_facility,714
+D14,Senefelderstraße,"14",amenity,dentist,601
+D16,Senefelderstraße,"16",healthcare,psychotherapist,601
+D16,Senefelderstraße,"16",healthcare,psychotherapist,601
+D16,Senefelderstraße,"16",healthcare,psychotherapist,601
+D16,Senefelderstraße,"16",healthcare,psychotherapist,601
+D18,Senefelderstraße,"18",amenity,restaurant,706
+D1a,Senefelderstraße,"1a",shop,coffee,502
+D2,Senefelderstraße,"2",shop,hairdresser,504
+D2,Senefelderstraße,"2",shop,hairdresser,504
+D22,Senefelderstraße,"22",shop,bakery,501
+D22,Senefelderstraße,"22",amenity,atm,602
+D26,Senefelderstraße,"26",amenity,social_facility,714
+D26,Senefelderstraße,"26",amenity,social_facility,714
+D27,Senefelderstraße,"27",shop,deli,502
+D27,Senefelderstraße,"27",amenity,bar,706
+D28,Senefelderstraße,"28",healthcare,psychotherapist,601
+D28,Senefelderstraße,"28",healthcare,psychotherapist,601
+D28,Senefelderstraße,"28",healthcare,psychotherapist,601
+D29a,Senefelderstraße,"29a",shop,hairdresser,504
+D29a,Senefelderstraße,"29a",shop,hairdresser,504
+D30,Senefelderstraße,"30",amenity,restaurant,706
+D31,Senefelderstraße,"31",healthcare,psychotherapist,601
+D32,Senefelderstraße,"32",shop,shoe_repair,504
+D32,Senefelderstraße,"32",shop,wine,502
+D32,Senefelderstraße,"32",shop,shoe_repair,504
+D33,Senefelderstraße,"33",shop,bicycle,502
+D33,Senefelderstraße,"33",shop,furniture,502
+D34,Senefelderstraße,"34",shop,massage,504
+D34,Senefelderstraße,"34",shop,furniture,502
+D34,Senefelderstraße,"34",shop,massage,504
+D4,Senefelderstraße,"4",healthcare,counselling,601
+D4,Senefelderstraße,"4",shop,deli,502
+D6,Senefelderstraße,"6",shop,locksmith,504
+D6,Senefelderstraße,"6",tourism,museum,702
+D6,Senefelderstraße,"6",shop,locksmith,504
+D8,Senefelderstraße,"8",shop,clothes,502
+D8a,Senefelderstraße,"8a",amenity,cafe,706
+D9,Senefelderstraße,"9",shop,hairdresser,504
+D9,Senefelderstraße,"9",shop,hairdresser,504
+D9,Senefelderstraße,"9",shop,tattoo,504
+D9,Senefelderstraße,"9",shop,tattoo,504
+E1,Stargarder Straße,"1",amenity,atm,602
+E1,Stargarder Straße,"1",shop,kiosk,501
+E10,Stargarder Straße,"10",amenity,bar,706
+E10,Stargarder Straße,"10",sport,martial_arts,704
+E10,Stargarder Straße,"10",shop,clothes,502
+E10,Stargarder Straße,"10",sport,martial_arts,704
+E11,Stargarder Straße,"11",office,lawyer,504
+E11,Stargarder Straße,"11",shop,clothes,502
+E11,Stargarder Straße,"11",office,lawyer,504
+E11,Stargarder Straße,"11",amenity,restaurant,706
+E12,Stargarder Straße,"12",shop,clothes,502
+E12,Stargarder Straße,"12",shop,jewelry,502
+E12,Stargarder Straße,"12",shop,clothes,502
+E12,Stargarder Straße,"12",healthcare:speciality,vaccination,601
+E12,Stargarder Straße,"12",healthcare:speciality,general,601
+E12,Stargarder Straße,"12",healthcare:speciality,physiatry,601
+E12a,Stargarder Straße,"12a",healthcare,alternative,601
+E13,Stargarder Straße,"13",amenity,cafe,706
+E13,Stargarder Straße,"13",amenity,restaurant,706
+E14,Stargarder Straße,"14",amenity,atm,602
+E14,Stargarder Straße,"14",amenity,restaurant,706
+E14,Stargarder Straße,"14",amenity,restaurant,706
+E15,Stargarder Straße,"15",shop,beauty,504
+E15,Stargarder Straße,"15",shop,florist,502
+E15,Stargarder Straße,"15",shop,beauty,504
+E16,Stargarder Straße,"16",shop,jewelry,502
+E17,Stargarder Straße,"17",shop,miscellaneous,502
+E18,Stargarder Straße,"18",amenity,dentist,601
+E19,Stargarder Straße,"19",amenity,social_facility,714
+E19,Stargarder Straße,"19",amenity,social_facility,714
+E19,Stargarder Straße,"19",shop,gift,502
+E2,Stargarder Straße,"2",amenity,restaurant,706
+E21,Stargarder Straße,"21",shop,supermarket,501
+E21,Stargarder Straße,"21",shop,massage,504
+E21,Stargarder Straße,"21",shop,massage,504
+E22,Stargarder Straße,"22",shop,hairdresser,504
+E22,Stargarder Straße,"22",amenity,restaurant,706
+E22,Stargarder Straße,"22",shop,hairdresser,504
+E23,Stargarder Straße,"23",shop,beauty,504
+E23,Stargarder Straße,"23",shop,beauty,504
+E24,Stargarder Straße,"24",shop,wool,502
+E24,Stargarder Straße,"24",amenity,restaurant,706
+E25,Stargarder Straße,"25",amenity,social_facility,714
+E25,Stargarder Straße,"25",leisure,park,720
+E25,Stargarder Straße,"25",sport,table_tennis,704
+E25,Stargarder Straße,"25",shop,hairdresser,504
+E25,Stargarder Straße,"25",shop,hairdresser,504
+E25,Stargarder Straße,"25",amenity,social_facility,714
+E25,Stargarder Straße,"25",sport,table_tennis,704
+E25,Stargarder Straße,"25",amenity,atm,602
+E28,Stargarder Straße,"28",amenity,restaurant,706
+E28,Stargarder Straße,"28",shop,furniture,502
+E29,Stargarder Straße,"29",shop,tattoo,504
+E29,Stargarder Straße,"29",shop,tattoo,504
+E29,Stargarder Straße,"29",leisure,playground,720
+E29,Stargarder Straße,"29",leisure,park,720
+E29,Stargarder Straße,"29",amenity,bar,706
+E3,Stargarder Straße,"3",amenity,restaurant,706
+E3,Stargarder Straße,"3",amenity,dentist,601
+E32,Stargarder Straße,"32",shop,furniture,502
+E33,Stargarder Straße,"33",amenity,bar,706
+E35,Stargarder Straße,"35",shop,hairdresser,504
+E35,Stargarder Straße,"35",office,insurance,504
+E35,Stargarder Straße,"35",shop,hairdresser,504
+E35,Stargarder Straße,"35",office,insurance,504
+E3a,Stargarder Straße,"3a",shop,clothes,502
+E3a,Stargarder Straße,"3a",shop,kiosk,501
+E4,Stargarder Straße,"4",amenity,post_box,602
+E4,Stargarder Straße,"4",shop,coffee,502
+E5,Stargarder Straße,"5",shop,clothes,502
+E5,Stargarder Straße,"5",shop,tool_hire,504
+E5,Stargarder Straße,"5",shop,tool_hire,504
+E6,Stargarder Straße,"6",office,lawyer,504
+E6,Stargarder Straße,"6",office,lawyer,504
+E6,Stargarder Straße,"6",office,lawyer,504
+E6,Stargarder Straße,"6",amenity,cafe,706
+E6,Stargarder Straße,"6",office,lawyer,504
+E6,Stargarder Straße,"6",shop,supermarket,501
+E6,Stargarder Straße,"6",healthcare,psychotherapist,601
+E7,Stargarder Straße,"7",shop,pottery,502
+E7,Stargarder Straße,"7",shop,ice_cream,706
+E8,Stargarder Straße,"8",amenity,social_facility,714
+E8,Stargarder Straße,"8",amenity,social_facility,714
+E9,Stargarder Straße,"9",shop,clothes,502
+F1,Hiddenseer Straße,"1",amenity,dentist,601
+F11,Hiddenseer Straße,"11",shop,bicycle,502
+F12,Hiddenseer Straße,"12",shop,antiques,502
+F12,Hiddenseer Straße,"12",healthcare,psychotherapist,601
+F12,Hiddenseer Straße,"12",office,lawyer,504
+F12,Hiddenseer Straße,"12",office,lawyer,504
+F13,Hiddenseer Straße,"13",amenity,restaurant,706
+F2,Hiddenseer Straße,"2",healthcare,physiotherapist,601
+F4,Hiddenseer Straße,"4",leisure,playground,720
+G3,Stubbenkammerstraße,"3",shop,miscellaneous,502
+G4,Stubbenkammerstraße,"4",shop,hairdresser,504
+G4,Stubbenkammerstraße,"4",shop,hairdresser,504
+G6,Stubbenkammerstraße,"6",amenity,pub,706
+G8,Stubbenkammerstraße,"8",healthcare,physiotherapist,601
+H10,Raumerstraße,"10",amenity,community_centre,720
+H10,Raumerstraße,"10",shop,supermarket,501
+H12,Raumerstraße,"12",amenity,cafe,706
+H13,Raumerstraße,"13",amenity,atm,602
+H13,Raumerstraße,"13",shop,supermarket,501
+H14,Raumerstraße,"14",amenity,cafe,706
+H14,Raumerstraße,"14",healthcare,optometrist,601
+H14a,Raumerstraße,"14a",shop,pharmacy,601
+H15,Raumerstraße,"15",amenity,restaurant,706
+H16,Raumerstraße,"16",amenity,atm,602
+H16,Raumerstraße,"16",shop,supermarket,501
+H16,Raumerstraße,"16",amenity,cafe,706
+H17a,Raumerstraße,"17a",amenity,restaurant,706
+H17a,Raumerstraße,"17a",amenity,bar,706
+H18,Raumerstraße,"18",amenity,kindergarten,1200
+H18,Raumerstraße,"18",healthcare,alternative,601
+H19,Raumerstraße,"19",shop,jewelry,502
+H2,Raumerstraße,"2",shop,wine,502
+H2,Raumerstraße,"2",amenity,cafe,706
+H20,Raumerstraße,"20",shop,chemist,502
+H20,Raumerstraße,"20",shop,tailor,504
+H20,Raumerstraße,"20",shop,tailor,504
+H20,Raumerstraße,"20",shop,clothes,502
+H21,Raumerstraße,"21",healthcare,psychotherapist,601
+H21,Raumerstraße,"21",amenity,dentist,601
+H21,Raumerstraße,"21",healthcare,psychotherapist,601
+H21,Raumerstraße,"21",healthcare,psychotherapist,601
+H21,Raumerstraße,"21",healthcare,psychotherapist,601
+H22,Raumerstraße,"22",office,government,602
+H23,Raumerstraße,"23",shop,gift,502
+H26,Raumerstraße,"26",shop,wine,502
+H27,Raumerstraße,"27",shop,fabric,502
+H28,Raumerstraße,"28",amenity,restaurant,706
+H29,Raumerstraße,"29",shop,pet_grooming,502
+H3,Raumerstraße,"3",amenity,restaurant,706
+H30,Raumerstraße,"30",amenity,restaurant,706
+H31,Raumerstraße,"31",shop,photo,504
+H31,Raumerstraße,"31",healthcare,alternative,601
+H31,Raumerstraße,"31",shop,jewelry,502
+H31,Raumerstraße,"31",amenity,cafe,706
+H31,Raumerstraße,"31",shop,books,502
+H31,Raumerstraße,"31",shop,photo,504
+H32,Raumerstraße,"32",shop,confectionery,502
+H33,Raumerstraße,"33",shop,ice_cream,706
+H34,Raumerstraße,"34",shop,gift,502
+H34,Raumerstraße,"34",shop,clothes,502
+H35,Raumerstraße,"35",shop,pottery,502
+H35,Raumerstraße,"35",amenity,cafe,706
+H36,Raumerstraße,"36",shop,clothes,502
+H36a,Raumerstraße,"36a",amenity,cafe,706
+H38,Raumerstraße,"38",amenity,restaurant,706
+H38,Raumerstraße,"38",amenity,restaurant,706
+H38,Raumerstraße,"38",office,lawyer,504
+H38,Raumerstraße,"38",office,lawyer,504
+H39,Raumerstraße,"39",amenity,restaurant,706
+H40,Raumerstraße,"40",amenity,cafe,706
+H41,Raumerstraße,"41",tourism,gallery,702
+H6,Raumerstraße,"6",amenity,restaurant,706
+H6,Raumerstraße,"6",shop,furniture,502
+H6,Raumerstraße,"6",amenity,post_box,602
+H7,Raumerstraße,"7",shop,toys,502
+H7,Raumerstraße,"7",amenity,cafe,706
+H9,Raumerstraße,"9",shop,kitchen,502
+H9,Raumerstraße,"9",amenity,cafe,706
+I183,Prenzlauer Allee,"183",amenity,restaurant,706
+I183,Prenzlauer Allee,"183",shop,florist,502
+I184,Prenzlauer Allee,"184",shop,shoes,502
+I184,Prenzlauer Allee,"184",shop,pharmacy,601
+I185,Prenzlauer Allee,"185",amenity,post_box,602
+I185,Prenzlauer Allee,"185",shop,kiosk,501
+I185,Prenzlauer Allee,"185",shop,florist,502
+I186,Prenzlauer Allee,"186",shop,beauty,504
+I186,Prenzlauer Allee,"186",shop,beauty,504
+I187,Prenzlauer Allee,"187",amenity,dentist,601
+I187,Prenzlauer Allee,"187",amenity,gambling,
+I188,Prenzlauer Allee,"188",healthcare:speciality,internal,601
+I188,Prenzlauer Allee,"188",shop,beauty,504
+I188,Prenzlauer Allee,"188",shop,variety_store,502
+I188,Prenzlauer Allee,"188",shop,beauty,504
+I189,Prenzlauer Allee,"189",shop,bicycle,502
+I190,Prenzlauer Allee,"190",shop,shoes,502
+I191,Prenzlauer Allee,"191",healthcare,alternative,601
+I191,Prenzlauer Allee,"191",shop,wine,502
+I191,Prenzlauer Allee,"191",shop,art,502
+I192,Prenzlauer Allee,"192",sport,yoga,704
+I192,Prenzlauer Allee,"192",amenity,dentist,601
+I192,Prenzlauer Allee,"192",shop,games,502
+I192,Prenzlauer Allee,"192",sport,yoga,704
+I192,Prenzlauer Allee,"192",healthcare,psychotherapist,601
+I193,Prenzlauer Allee,"193",shop,mobile_phone,502
+I193,Prenzlauer Allee,"193",shop,mobile_phone,504
+I193,Prenzlauer Allee,"193",shop,mobile_phone,504
+I193,Prenzlauer Allee,"193",amenity,cafe,706
+I193,Prenzlauer Allee,"193",shop,kiosk,501
+I195,Prenzlauer Allee,"195",amenity,cafe,706
+I195,Prenzlauer Allee,"195",amenity,restaurant,706
+I195a,Prenzlauer Allee,"195a",shop,bakery,501
+I195a,Prenzlauer Allee,"195a",amenity,atm,602
+I195a,Prenzlauer Allee,"195a",shop,hairdresser,504
+I195a,Prenzlauer Allee,"195a",shop,hairdresser,504
+J1,Danziger Straße,"1",amenity,theatre,703
+J1,Danziger Straße,"1",amenity,cafe,706
+J11,Danziger Straße,"11",amenity,atm,602
+J13,Danziger Straße,"13",amenity,bar,706
+J13,Danziger Straße,"13",amenity,restaurant,706
+J15,Danziger Straße,"15",amenity,veterinary,504
+J15,Danziger Straße,"15",shop,tailor,504
+J15,Danziger Straße,"15",shop,tailor,504
+J15,Danziger Straße,"15",amenity,veterinary,504
+J17,Danziger Straße,"17",shop,jewelry,502
+J17,Danziger Straße,"17",amenity,restaurant,706
+J19,Danziger Straße,"19",shop,deli,502
+J21,Danziger Straße,"21",amenity,cafe,706
+J23,Danziger Straße,"23",shop,kiosk,501
+J23,Danziger Straße,"23",shop,laundry,504
+J23,Danziger Straße,"23",amenity,restaurant,706
+J23,Danziger Straße,"23",shop,laundry,504
+J25,Danziger Straße,"25",shop,beauty,504
+J25,Danziger Straße,"25",amenity,atm,602
+J25,Danziger Straße,"25",shop,beauty,504
+J27,Danziger Straße,"27",shop,motorcycle,
+J29,Danziger Straße,"29",amenity,restaurant,706
+J3,Danziger Straße,"3",shop,kiosk,501
+J3,Danziger Straße,"3",shop,tea,502
+J3,Danziger Straße,"3",amenity,restaurant,706
+J31,Danziger Straße,"31",shop,hairdresser,504
+J31,Danziger Straße,"31",shop,clothes,502
+J31,Danziger Straße,"31",shop,interior_decoration,502
+J31,Danziger Straße,"31",shop,hairdresser,504
+J33,Danziger Straße,"33",shop,kiosk,501
+J33,Danziger Straße,"33",shop,travel_agency,504
+J33,Danziger Straße,"33",shop,travel_agency,504
+J35,Danziger Straße,"35",healthcare:speciality,gynaecology,601
+J35,Danziger Straße,"35",amenity,restaurant,706
+J35,Danziger Straße,"35",healthcare:speciality,gynaecology,601
+J35,Danziger Straße,"35",shop,sports,502
+J35,Danziger Straße,"35",healthcare:speciality,gynaecology,601
+J35,Danziger Straße,"35",amenity,cafe,706
+J41,Danziger Straße,"41",amenity,atm,602
+J41,Danziger Straße,"41",shop,outdoor,502
+J41,Danziger Straße,"41",shop,kiosk,501
+J43,Danziger Straße,"43",shop,hairdresser,504
+J43,Danziger Straße,"43",amenity,restaurant,706
+J43,Danziger Straße,"43",shop,hairdresser,504
+J45,Danziger Straße,"45",shop,hairdresser,504
+J45,Danziger Straße,"45",shop,hairdresser,504
+J49,Danziger Straße,"49",shop,deli,502
+J5,Danziger Straße,"5",healthcare,general,601
+J5,Danziger Straße,"5",healthcare,dentist,601
+J5,Danziger Straße,"5",healthcare:speciality,general,601
+J5,Danziger Straße,"5",healthcare:speciality,internal,601
+J5,Danziger Straße,"5",healthcare:speciality,otolaryngology,601
+J5,Danziger Straße,"5",healthcare:speciality,podiatry,601
+J5,Danziger Straße,"5",healthcare:speciality,endocrinology,601
+J5,Danziger Straße,"5",healthcare,general,601
+J5,Danziger Straße,"5",amenity,dentist,601
+J5,Danziger Straße,"5",healthcare,alternative,601
+J5,Danziger Straße,"5",shop,pharmacy,601
+J51,Danziger Straße,"51",office,estate_agent,504
+J51,Danziger Straße,"51",office,estate_agent,504
+J53,Danziger Straße,"53",amenity,cafe,706
+J53,Danziger Straße,"53",amenity,bar,706
+J55,Danziger Straße,"55",shop,glaziery,502
+J55,Danziger Straße,"55",sport,fitness,704
+J55,Danziger Straße,"55",sport,fitness,704
+J57,Danziger Straße,"57",shop,miscellaneous,502
+J57,Danziger Straße,"57",amenity,dentist,601
+J59,Danziger Straße,"59",amenity,cafe,706
+J61,Danziger Straße,"61",office,lawyer,504
+J61,Danziger Straße,"61",office,lawyer,504
+J61,Danziger Straße,"61",amenity,restaurant,706
+J63,Danziger Straße,"63",amenity,restaurant,706
+J63,Danziger Straße,"63",amenity,restaurant,706
+J63,Danziger Straße,"63",amenity,post_box,602
+J65,Danziger Straße,"65",shop,beauty,504
+J65,Danziger Straße,"65",shop,beauty,504
+J65,Danziger Straße,"65",amenity,cafe,706
+J7,Danziger Straße,"7",shop,laundry,504
+J7,Danziger Straße,"7",shop,kiosk,501
+J7,Danziger Straße,"7",amenity,atm,602
+J7,Danziger Straße,"7",amenity,restaurant,706
+J7,Danziger Straße,"7",shop,laundry,504
+J71,Danziger Straße,"71",shop,tailor,504
+J71,Danziger Straße,"71",shop,tailor,504
+J71,Danziger Straße,"71",sport,fitness,704
+J71,Danziger Straße,"71",sport,fitness,704
+J71,Danziger Straße,"71",shop,kiosk,501
+J9,Danziger Straße,"9",shop,hairdresser,504
+J9,Danziger Straße,"9",amenity,restaurant,706
+J9,Danziger Straße,"9",shop,hairdresser,504
+K10,Pappelallee,"10",office,estate_agent,504
+K10,Pappelallee,"10",office,estate_agent,504
+K10,Pappelallee,"10",shop,furniture,502
+K11,Pappelallee,"11",amenity,bar,706
+K12,Pappelallee,"12",tourism,gallery,702
+K12,Pappelallee,"12",shop,hairdresser,504
+K12,Pappelallee,"12",shop,hairdresser,504
+K12,Pappelallee,"12",shop,gift,502
+K13,Pappelallee,"13",office,insurance,504
+K13,Pappelallee,"13",amenity,restaurant,706
+K13,Pappelallee,"13",office,insurance,504
+K15,Pappelallee,"15",amenity,cafe,706
+K15,Pappelallee,"15",amenity,theatre,703
+K16,Pappelallee,"16",shop,kiosk,501
+K16,Pappelallee,"16",amenity,grave_yard,713
+K16,Pappelallee,"16",amenity,grave_yard,713
+K18,Pappelallee,"18",amenity,restaurant,706
+K19,Pappelallee,"19",amenity,restaurant,706
+K19,Pappelallee,"19",amenity,atm,602
+K2,Pappelallee,"2",shop,gift,502
+K20,Pappelallee,"20",shop,copyshop,504
+K20,Pappelallee,"20",shop,copyshop,504
+K22,Pappelallee,"22",amenity,restaurant,706
+K24,Pappelallee,"24",shop,car_repair,
+K25,Pappelallee,"25",shop,gift,502
+K28,Pappelallee,"28",shop,hairdresser,504
+K28,Pappelallee,"28",shop,hairdresser,504
+K29,Pappelallee,"29",amenity,restaurant,706
+K3,Pappelallee,"3",amenity,cafe,706
+K30,Pappelallee,"30",building,school,300
+K32a,Pappelallee,"32a",amenity,restaurant,706
+K34,Pappelallee,"34",shop,kiosk,501
+K34,Pappelallee,"34",amenity,cafe,706
+K34,Pappelallee,"34",shop,window_blind,502
+K4,Pappelallee,"4",shop,kiosk,501
+K4,Pappelallee,"4",shop,hairdresser,504
+K4,Pappelallee,"4",shop,hairdresser,504
+K4,Pappelallee,"4",shop,beauty,504
+K4,Pappelallee,"4",shop,beauty,504
+K57,Pappelallee,"57",amenity,restaurant,706
+K57,Pappelallee,"57",amenity,cafe,706
+K58,Pappelallee,"58",amenity,cafe,706
+K58,Pappelallee,"58",shop,massage,504
+K58,Pappelallee,"58",shop,massage,504
+K62,Pappelallee,"62",shop,charity,502
+K63,Pappelallee,"63",shop,pottery,502
+K64,Pappelallee,"64",shop,bookmaker,504
+K64,Pappelallee,"64",amenity,restaurant,706
+K64,Pappelallee,"64",shop,bookmaker,504
+K65,Pappelallee,"65",amenity,restaurant,706
+K65,Pappelallee,"65",shop,hairdresser,504
+K65,Pappelallee,"65",shop,hairdresser,504
+K66,Pappelallee,"66",shop,boutique,502
+K66,Pappelallee,"66",tourism,gallery,702
+K67,Pappelallee,"67",shop,furniture,502
+K7,Pappelallee,"7",amenity,theatre,703
+K73,Pappelallee,"73",amenity,cafe,706
+K74,Pappelallee,"74",leisure,playground,720
+K76,Pappelallee,"76",shop,massage,504
+K76,Pappelallee,"76",shop,massage,504
+K77,Pappelallee,"77",amenity,restaurant,706
+K8,Pappelallee,"8",shop,photo,504
+K8,Pappelallee,"8",shop,photo,504
+K80,Pappelallee,"80",shop,massage,504
+K80,Pappelallee,"80",shop,massage,504
+K81,Pappelallee,"81",healthcare,general,601
+K81,Pappelallee,"81",amenity,training,705
+K81,Pappelallee,"81",amenity,training,705
+K82,Pappelallee,"82",shop,gift,502
+K83,Pappelallee,"83",office,government,602
+K84,Pappelallee,"84",amenity,restaurant,706
+K85,Pappelallee,"85",shop,hairdresser,504
+K85,Pappelallee,"85",shop,hairdresser,504
+K86,Pappelallee,"86",shop,beauty,504
+K86,Pappelallee,"86",amenity,cafe,706
+K86,Pappelallee,"86",shop,beauty,504
+K88,Pappelallee,"88",shop,beauty,504
+K88,Pappelallee,"88",shop,beauty,504
+K88,Pappelallee,"88",shop,candles,502
+K89,Pappelallee,"89",shop,shoe_repair,504
+K89,Pappelallee,"89",shop,shoe_repair,504
+K9,Pappelallee,"9",amenity,religious,713
+K9,Pappelallee,"9",amenity,religious,713
+L46a,Schönhauser Allee,"46a",shop,clothes,502
+L46a,Schönhauser Allee,"46a",amenity,restaurant,706
+L47,Schönhauser Allee,"47",shop,beauty,504
+L47,Schönhauser Allee,"47",shop,beauty,504
+L48,Schönhauser Allee,"48",healthcare:speciality,physiatry,601
+L48,Schönhauser Allee,"48",office,lawyer,504
+L48,Schönhauser Allee,"48",amenity,dentist,601
+L48,Schönhauser Allee,"48",office,lawyer,504
+L49,Schönhauser Allee,"49",shop,hairdresser,504
+L49,Schönhauser Allee,"49",shop,hairdresser,504
+L49,Schönhauser Allee,"49",shop,clothes,502
+L49,Schönhauser Allee,"49",shop,kiosk,501
+L50,Schönhauser Allee,"50",shop,clothes,502
+L50,Schönhauser Allee,"50",amenity,restaurant,706
+L50,Schönhauser Allee,"50",shop,clothes,502
+L50a,Schönhauser Allee,"50a",shop,beauty,504
+L50a,Schönhauser Allee,"50a",amenity,cafe,706
+L50a,Schönhauser Allee,"50a",shop,beauty,504
+L52,Schönhauser Allee,"52",amenity,cafe,706
+L52a,Schönhauser Allee,"52a",shop,bakery,501
+L53,Schönhauser Allee,"53",shop,chemist,502
+L54,Schönhauser Allee,"54",amenity,restaurant,706
+L54,Schönhauser Allee,"54",shop,funeral_directors,502
+L55,Schönhauser Allee,"55",healthcare,psychotherapist,601
+L56,Schönhauser Allee,"56",amenity,language_school,705
+L56,Schönhauser Allee,"56",amenity,bar,706
+L56,Schönhauser Allee,"56",amenity,language_school,705
+L56,Schönhauser Allee,"56",amenity,atm,602
+L56,Schönhauser Allee,"56",amenity,restaurant,706
+L57,Schönhauser Allee,"57",sport,fitness,704
+L57,Schönhauser Allee,"57",shop,kiosk,501
+L57,Schönhauser Allee,"57",sport,fitness,704
+L58,Schönhauser Allee,"58",amenity,theatre,703
+L58a,Schönhauser Allee,"58a",shop,tailor,504
+L58a,Schönhauser Allee,"58a",tourism,gallery,702
+L58a,Schönhauser Allee,"58a",shop,tailor,504
+L59,Schönhauser Allee,"59",amenity,training,705
+L59,Schönhauser Allee,"59",amenity,training,705
+L59,Schönhauser Allee,"59",amenity,social_facility,714
+L59,Schönhauser Allee,"59",amenity,social_facility,714
+L59b,Schönhauser Allee,"59b",amenity,social_facility,714
+L59b,Schönhauser Allee,"59b",amenity,social_facility,714
+L60,Schönhauser Allee,"60",shop,tea,502
+L60,Schönhauser Allee,"60",shop,clothes,502
+L61,Schönhauser Allee,"61",shop,beauty,504
+L61,Schönhauser Allee,"61",shop,beauty,504
+L61,Schönhauser Allee,"61",amenity,restaurant,706
+L62,Schönhauser Allee,"62",amenity,restaurant,706
+L62,Schönhauser Allee,"62",shop,kiosk,501
+L62,Schönhauser Allee,"62",amenity,atm,602
+L63,Schönhauser Allee,"63",shop,gift,502
+L63,Schönhauser Allee,"63",amenity,photo_booth,604
+L63,Schönhauser Allee,"63",shop,hairdresser,504
+L63,Schönhauser Allee,"63",shop,hairdresser,504
+L64,Schönhauser Allee,"64",amenity,training,705
+L64,Schönhauser Allee,"64",amenity,training,705
+L65,Schönhauser Allee,"65",shop,deli,502
+L65,Schönhauser Allee,"65",amenity,restaurant,706
+L67,Schönhauser Allee,"67",shop,flooring,704
+L67,Schönhauser Allee,"67",shop,flooring,704
+L68,Schönhauser Allee,"68",shop,hairdresser,504
+L68,Schönhauser Allee,"68",amenity,gambling,
+L68,Schönhauser Allee,"68",shop,hairdresser,504
+L70,Schönhauser Allee,"70",shop,music,502
+L70,Schönhauser Allee,"70",shop,paint,502
+L70,Schönhauser Allee,"70",shop,tobacco,501
+L70a,Schönhauser Allee,"70a",shop,window_blind,502
+L70b,Schönhauser Allee,"70b",shop,hairdresser,504
+L70b,Schönhauser Allee,"70b",shop,hairdresser,504
+L70c,Schönhauser Allee,"70c",shop,optician,504
+L70c,Schönhauser Allee,"70c",shop,optician,504
+M10,Gneiststraße,"10",amenity,bar,706
+N1,Buchholzer Straße,"1",shop,photo,504
+N1,Buchholzer Straße,"1",shop,photo,504
+N17,Buchholzer Straße,"17",amenity,language_school,705
+N17,Buchholzer Straße,"17",amenity,language_school,705
+N5a,Buchholzer Straße,"5a",amenity,restaurant,706
+P14,Greifenhagener Straße,"14",shop,beauty,504
+P14,Greifenhagener Straße,"14",shop,beauty,504
+P14,Greifenhagener Straße,"14",amenity,kindergarten,1200
+P17,Greifenhagener Straße,"17",office,lawyer,504
+P17,Greifenhagener Straße,"17",office,lawyer,504
+P2,Greifenhagener Straße,"2",amenity,kindergarten,1200
+P2,Greifenhagener Straße,"2",amenity,kindergarten,1200
+P58,Greifenhagener Straße,"58",building,school,300
+P6,Greifenhagener Straße,"6",sport,yoga,704
+P6,Greifenhagener Straße,"6",sport,yoga,704
+P60,Greifenhagener Straße,"60",healthcare,psychotherapist,601
+P64,Greifenhagener Straße,"64",healthcare:speciality,osteopathy,601
+P64,Greifenhagener Straße,"64",amenity,cafe,706
+P8,Greifenhagener Straße,"8",office,tax_advisor,504
+P8,Greifenhagener Straße,"8",office,tax_advisor,504
+P9,Greifenhagener Straße,"9",office,insurance,504
+P9,Greifenhagener Straße,"9",office,insurance,504
+P9,Greifenhagener Straße,"9",shop,beauty,504
+P9,Greifenhagener Straße,"9",shop,beauty,504
+P9,Greifenhagener Straße,"9",healthcare,alternative,601
+Q1,Lettestraße,"1",amenity,cafe,706
+Q10,Lettestraße,"10",amenity,restaurant,706
+Q2,Lettestraße,"2",amenity,cafe,706
+Q2,Lettestraße,"2",shop,hairdresser,504
+Q2,Lettestraße,"2",shop,hairdresser,504
+Q3,Lettestraße,"3",amenity,bar,706
+Q5,Lettestraße,"5",shop,books,502
+Q6,Lettestraße,"6",amenity,bar,706
+Q6a,Lettestraße,"6a",amenity,restaurant,706
+Q6a,Lettestraße,"6a",shop,florist,502
+Q7,Lettestraße,"7",amenity,kindergarten,1200
+Q9,Lettestraße,"9",amenity,cafe,706
+R1,Göhrener Straße,"1",shop,bicycle,502
+R10,Göhrener Straße,"10",healthcare,psychotherapist,601
+R11,Göhrener Straße,"11",building,religious,713
+R11,Göhrener Straße,"11",building,religious,713
+R14,Göhrener Straße,"14",healthcare,psychotherapist,601
+R14,Göhrener Straße,"14",healthcare,psychotherapist,601
+R14,Göhrener Straße,"14",healthcare,psychotherapist,601
+R14,Göhrener Straße,"14",leisure,playground,720
+R14a,Göhrener Straße,"14a",shop,fabric,502
+R2,Göhrener Straße,"2",healthcare,alternative,601
+R3,Göhrener Straße,"3",amenity,kindergarten,1200
+R5,Göhrener Straße,"5",amenity,restaurant,706
+R6,Göhrener Straße,"6",amenity,restaurant,706
+R7,Göhrener Straße,"7",tourism,gallery,702
+R9,Göhrener Straße,"9",healthcare,psychotherapist,601
+R9,Göhrener Straße,"9",healthcare,psychotherapist,601
+Z1,Helmholtzplatz,"1",sport,table_tennis,704
+Z1,Helmholtzplatz,"1",leisure,playground,720
+Z1,Helmholtzplatz,"1",leisure,park,720
+Z1,Helmholtzplatz,"1",amenity,cafe,706
+Z1,Helmholtzplatz,"1",sport,table_tennis,704
